@@ -1,0 +1,79 @@
+# Node.js / Express.js
+node_modules/
+npm-debug.log
+*.pid
+*.seed
+*.log
+
+# MongoDB
+*.mdmp
+
+# React.js
+/build/
+/dist/
+/npm-debug.log
+yarn-error.log
+.DS_Store
+
+# Environment variables
+.env
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Dependency lock files
+yarn.lock
+package-lock.json
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Testing
+coverage/
+
+# Editor directories and files
+.editorconfig
+*.sublime-project
+*.sublime-workspace
+
+# Mac-specific
+.AppleDouble
+.DS_Store
+
+# Windows-specific
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio Code specific
+.vscode/
+.history/
+
+# JetBrains IDEs specific
+.idea/
+.env
+
+# .env.local is used for local environment variables
+.env.local
+
+# .env.development is used for development environment variables
+.env.development
+
+# .env.test is used for test environment variables
+.env.test
+
+# .env.production is used for production environment variables
+.env.production
+
+# Next.js
+.next/
